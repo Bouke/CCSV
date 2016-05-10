@@ -1,5 +1,5 @@
 module CCSV [system] {
-    header "/usr/local/opt/libcsv/include/csv.h"
+    header "shim.h"
     link "csv"
     export *
 }
