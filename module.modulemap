@@ -1,4 +1,4 @@
-module CLibCSV [system] {
+module CCSV [system] {
     header "shim.h"
     link "csv"
     export *
